@@ -28,5 +28,8 @@ CODE 12: DESIGNED A 16x1 MUX from 4x1.
 
 CODE 13: DESIGNED A 4 bit BINARY to GRAY CODE CONVERTER.
 
-CODE 14: DESIGNED A SR FF with clr and preset.
-CODE 15: DESIGNED A JK FF with clr and preset.
+CODE 14: DESIGNED A 4 bit GRAY to BINARY CODE CONVERTER.
+
+CODE 15: DESIGNED A SR FF with clr and preset.
+
+CODE 16: DESIGNED A JK FF with clr and preset.
